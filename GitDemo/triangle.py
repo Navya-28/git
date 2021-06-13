@@ -13,3 +13,6 @@ for i in range(0,5):
             print(" ",end = "")
         j= j+1
     print()
+   print("navya")
+   print("kapil")
+   print("ridhi")
