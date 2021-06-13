@@ -13,3 +13,5 @@ for i in range(0,5):
             print(" ",end = "")
         j= j+1
     print()
+    print("local navya")
+    print("local kapil")
